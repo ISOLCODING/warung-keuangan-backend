@@ -555,8 +555,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developers
 
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
-- **Email** - your.email@example.com
+- **Your Name** - [GitHub Profile](https://github.com/ISOLCODING)
+- **Email** - rrqhoshi891@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -571,9 +571,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Jika Anda membutuhkan bantuan atau memiliki pertanyaan:
 
-- 📧 **Email**: support@warungkeuangan.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/warung-keuangan-api/issues)
-- 📚 **Documentation**: [Wiki](https://github.com/your-username/warung-keuangan-api/wiki)
+- 📧 **Email**: rrqhoshi891@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ISOLCODING/warung-keuangan-api/issues)
+- 📚 **Documentation**: [Wiki](https://github.com/ISOLCODING/warung-keuangan-api/wiki)
 
 ---
 
