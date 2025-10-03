@@ -23,6 +23,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'phone',
     ];
 
     /**
@@ -46,5 +47,13 @@ class User extends Authenticatable
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
         ];
+    }
+/**
+     * Relasi ke Transaction
+     * One User has many Transactions
+     */
+    public function transactions()
+    {
+        return $this->hasMany(Transaction::class);
     }
 }
